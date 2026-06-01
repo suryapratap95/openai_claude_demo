@@ -25,6 +25,7 @@ def ask_openai():
                 "role":"user",
                 "content":PROMPT
             }
+            
         ]
     )
 
